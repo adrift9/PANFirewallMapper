@@ -49,8 +49,8 @@
   <header id="header" class="header fixed-top d-flex align-items-center">
 
     <div class="d-flex align-items-center justify-content-between">
-      <a href="http://localhost/index.php" class="logo d-flex align-items-center">
-        <img src="http://localhost/assets/img/logopaloalto.png" alt="Palo Alto Networks">
+      <a href="index.php" class="logo d-flex align-items-center">
+        <img src="assets/img/logopaloalto.png" alt="Palo Alto Networks">
         Firewall Mapper
       </a>
       <i class="bi bi-list toggle-sidebar-btn"></i>
